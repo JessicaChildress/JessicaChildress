@@ -1,7 +1,6 @@
 ## Hi there 👋 I'm Jessica! 
 
-
-
+[![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)](https://leetcode.com/Jessica-Childress_lmig)
 <!--
 **JessicaChildress/JessicaChildress** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
