@@ -1,14 +1,15 @@
-## Hi there 👋 I'm Jessica! 
+# Hi there 👋 I'm Jessica! 
+## 😄 About Me
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/Jessica-Childress_lmig?ext=heatmap)](https://leetcode.com/Jessica-Childress_lmig)
-
-## About Me
 Data scientist and engineer passionate about desiging scalable data models and leveraging the latest machine learning algorithms to create predictive models. I love to learn and solve puzzles, and I work best in a fast-paced, challenging environment. In my freetime I am currently working on building a Personal Shopper AI Agent that will leverage the following concepts: 
   * Agentic AI that specializes in the retail/fashion vertical
   * Large Language Models
   * Recommendation System
   * Database design & management on PostgreSql
   * End-to-end app development
+
+> [!IMPORTANT]  
+> Check out my latest career accomplishments on [my website](https://jessicachildress.notion.site/Jessica-Childress-Data-Science-Engineering-1a21e6ad4af680a5b876c34bd309fc0d)
 
 ## 🛠️ Technologies & Tools
 ![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=bc2b5d)
@@ -22,12 +23,13 @@ Data scientist and engineer passionate about desiging scalable data models and l
 ![](https://img.shields.io/badge/PowerBi-informational?style=flat&logo=microsoft&logoColor=white&color=bc2b5d)
 
 
-## 📈 GitHub Stats
+## 📈 Leetcode & GitHub Stats
+
+[![Leetcode Stats](https://leetcard.jacoblin.cool/Jessica-Childress_lmig?ext=heatmap)](https://leetcode.com/Jessica-Childress_lmig)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JessicaChildress&layout=compact&theme=dark)
 
 ## 🔭 Projects
-
-### ‼️ Check out my latest career accomplishments on [my website](https://jessicachildress.notion.site/Jessica-Childress-Data-Science-Engineering-1a21e6ad4af680a5b876c34bd309fc0d)
 
 ### Recommendation System
 Content-based filtering for personalized recommendations. [View Project](https://github.com/JessicaChildress/RecommendationSystemProject)
