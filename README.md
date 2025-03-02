@@ -1,5 +1,6 @@
 # Hi there 👋 I'm Jessica! 
 ## 😄 About Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/jessica-childress)
 
 Data scientist and engineer passionate about desiging scalable data models and leveraging the latest machine learning algorithms to create predictive models. I love to learn and solve puzzles, and I work best in a fast-paced, challenging environment. In my freetime I am currently working on building a Personal Shopper AI Agent that will leverage the following concepts: 
   * Agentic AI that specializes in the retail/fashion vertical
@@ -36,10 +37,6 @@ Content-based filtering for personalized recommendations. [View Project](https:/
 
 ### Personal Shopper AI
 AI agent for personalized shopping recommendations. [View Project]([link-to-repo](https://github.com/JessicaChildress/PersonalShopperAI))
-
-## 📫 How to reach me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/jessica-childress)
-
 
 ## ⚡️ Some Fun facts
 * I love dogs, being outdoors, and working out
